@@ -1,4 +1,4 @@
-## Long_Range-LoRa-LoRaWAN
+## IoT-LPWAN-LoRa-LoRaWAN
 
 A dupla **LoRa/LoRaWAN** trata-se de uma das possibilidades (tecnologias candidadatas) para explorar a vastidão do mundo IoT (Internet  das Coisas). 
 
