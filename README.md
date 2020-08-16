@@ -11,6 +11,6 @@ No decorrer da caminhada (em andamento) se percebeu a necessidade de demarcar as
 ***
 - [ ] Teoria sem prática é manca!
 - [ ] Prática sem teoria é cega!
-- [x] Sejamos velocistas visionários; porém, sempre éticos!
+- [x] Sejamos velocistas visionários, sempre éticos!
 *** 
 :coffee:
