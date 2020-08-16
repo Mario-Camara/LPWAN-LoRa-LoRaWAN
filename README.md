@@ -12,4 +12,5 @@ VAMOS JUNTOS: aprender, colaborar e conectar as coisas! :fist_right: :fist_left:
 - [ ] Teoria sem prática é manca!
 - [ ] Prática sem teoria é cega!
 - [x] Sejamos velocistas visionários; porém, sempre éticos!
-*** :coffee:
+*** 
+:coffee:
