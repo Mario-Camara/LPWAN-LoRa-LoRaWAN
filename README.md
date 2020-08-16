@@ -6,7 +6,7 @@ A ideia é apresentar uma juntada de informações organizadas em face do estudo
 
 No decorrer da caminhada (em andamento) se percebeu a necessidade de demarcar as pegadas pelo caminho, devido as recorrentes repassadas pelos conhecimentos para efetuar as análises e interpretações dos resultados obtidos. Portanto, em virtude da necessidade está surgindo este esboço de trilha que acredito possa corroborar para desmitificar e nivelar o conhecimento a cerca das nuances desta interessante **modulação/protocolo/tecnologia**, desde os fundamentos teóricos até a indispensável prática.  
 ***
-[]Teoria sem prática é manca!
--[] Prática sem teoria é cega!
-[]Sejamos velocistas visionários; porém, sempre éticos!
+- [ ] Teoria sem prática é manca!
+- [ ] Prática sem teoria é cega!
+- [x] Sejamos velocistas visionários; porém, sempre éticos!
 ***
