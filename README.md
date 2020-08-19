@@ -1,4 +1,4 @@
-## IoT-LPWAN-LoRa-LoRaWAN
+## IoT-LPWAN-LoRa&LoRaWAN
 ***
 A "dupla sertaneja" **LoRa&LoRaWAN** trata-se de uma das possibilidades e apostas, dentre tecnologias candidadatas, para explorar uma fatia da vastidão do mundo IoT (Internet das Coisas). 
 
