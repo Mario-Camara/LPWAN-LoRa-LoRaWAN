@@ -6,7 +6,7 @@ A ideia é apresentar uma juntada de informações organizadas e referenciadas, 
 
 No decorrer da caminhada (em andamento) se percebeu a necessidade de demarcar as pegadas pelo caminho, devido as recorrentes repassadas pelos conhecimentos adquiridos para efetuar as análises e interpretações dos resultados obtidos. Portanto, em virtude da necessidade está surgindo este esboço de rastro (trilha de migalhas) que acredito possa corroborar para desmitificar e nivelar o saber, a cerca das nuances deste interessante "arranjo musical" :man_facepalming: de **modulação-protocolo-tecnologia**, desde os fundamentos teóricos até a indispensável prática. 
 
-Sou novato aqui - por onde começar...
+Sou novato aqui - por onde começar?
 
 [**VAMOS JUNTOS:**](https://github.com/Mario-Camara/IoT-LPWAN-LoRa-LoRaWAN/wiki/Capa:-modula%C3%A7%C3%A3o-LoRA,-protocolo-LoRaWAN-e-um-ecossistema-a-mais.) aprender, colaborar e conectar as coisas! :fist_right: :fist_left:
 
